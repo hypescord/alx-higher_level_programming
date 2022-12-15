@@ -1,3 +1,2 @@
-select 
-#!/usr/bin/bash
-print("Best School")
+#!/bin/bash
+python3 $PYFILE
