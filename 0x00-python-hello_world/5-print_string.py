@@ -1,3 +1,4 @@
 #!/usr/bin/python3
 str = "Holberton School"
-print(f"{str}{str}{str}{str:<.9}")
+three = 3*str
+print(f"{three}{str:<.9}")
